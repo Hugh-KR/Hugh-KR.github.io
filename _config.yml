@@ -104,12 +104,6 @@ author:
   location         : "Somewhere"
   email            : lee2317884@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: lee2317884@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://hugh-kr.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Hugh-KR"
@@ -120,12 +114,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Hugh-KR"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
 
 
 # Reading Files
