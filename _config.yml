@@ -102,7 +102,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            : "lee2317884@gmail.com"
+  email            : <lee2317884@gmail.com>
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
