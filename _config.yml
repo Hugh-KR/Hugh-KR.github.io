@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "lee2317884@gmail.com"
+      url: "mailto:lee2317884@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://hugh-kr.github.io/"
